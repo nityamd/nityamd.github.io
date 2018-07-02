@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To paraphrase Tolstoy, “All happy PhD’s are alike; each unhappy PhD is unhappy in its own way.""
-date: July 2nd 2018
+date: 2018-07-02
 
 ---
 
