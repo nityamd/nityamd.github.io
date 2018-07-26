@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Nothing ever fatigues me, but doing what I do not like." - Jane Austen
+title: "Nothing ever fatigues me, but doing what I do not like. (Jane Austen)"
 date: 2018-07-26
+
 
 ---
 
