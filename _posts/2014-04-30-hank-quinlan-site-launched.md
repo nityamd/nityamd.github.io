@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To paraphrase Tolstoy, "All happy PhD’s are alike; every unhappy PhD is unhappy in its own way."
-date: 2018-07-02
+title: "Nothing ever fatigues me, but doing what I do not like." - Jane Austen
+date: 2018-07-26
 
 ---
 

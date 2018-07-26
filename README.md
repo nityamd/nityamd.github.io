@@ -1,3 +1,3 @@
 nityamd.github.io
 ====================
-The Universe is Indifferent
+---- personal website of yours truly ----
